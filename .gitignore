@@ -1,8 +1,26 @@
 # PyCharm
 .idea/
+*.iml
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*py[cod]
+*$py.class
+
+# Ambiente
+.venv/
+.env/
+venv/
+
+# Config local do SQL
+.my.cnf
+mysql_credentials.json
+
+# Credenciai do MySQL
+.env
+secrets.py
 
 # Backups
 *.bak
@@ -10,11 +28,10 @@ __pycache__/
 # Bancos locais
 *.db
 *.sqlite
+*.sqlite3
 
-# Sistema operacional
+# Sistema operacional e logs
+*.log
 Thumbs.db
 desktop.ini
 .DS_Store
-
-# Registros
-*.log

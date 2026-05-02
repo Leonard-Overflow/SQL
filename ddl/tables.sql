@@ -1,0 +1,5 @@
+CREATE TABLE funcionarios(
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    nome TEXT NOT NULL,
+    salario REAL NOT NULL
+);
