@@ -7,16 +7,23 @@ Nesse repositório ficaram meus estudos em SQL, no caso usando o SGBD SQLite jun
 
 ## Estrutura de pastas
 O repositório será separado em pasta para cada tipo de conceito ou etapa de aprendizado.
+- Fundamentos
 - ddl(Data Definition Language)
+- data_constraints
 - dml(Data Manipulation Language)
+- aggregate_functions
+- advanced__functions
 - dcl(Data Control Language)
 - tcl(Transactional Control Language)
+- transactional_isolation_levels
 - joins
 - window_functions
 - triggers
 - views
 - subqueries_e_cte
+- dynamic_sql
 - index_e_plan
+- performance_optimization
 - stored_procedures_e_functions
 - queries_recursivas
 - json_sql
